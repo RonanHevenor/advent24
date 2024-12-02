@@ -41,6 +41,7 @@ def problemdampener(report):
     return False
 
 
+# part 1
 safe = 0
 
 for report in data:
@@ -49,6 +50,7 @@ for report in data:
 
 print(safe)
 
+# part 2
 safe = 0
 
 for report in data:
